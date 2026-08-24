@@ -6,7 +6,7 @@
     <string name="qjcxu_price_per_hour">£%1$.2f / per hour</string>
 
     <!-- top bar titles -->
-    <string name="qjcxu_top_bar_home_title">App Title</string>
+    <string name="qjcxu_top_bar_home_title">Nusol Strategy Path</string>
     <string name="qjcxu_top_bar_bookings_title">Bookings</string>
     <string name="qjcxu_top_bar_checkout_title">Checkout</string>
     <string name="qjcxu_top_bar_settings_title">Settings</string>
@@ -56,9 +56,9 @@
     <string name="qjcxu_settings_screen_company_label">Company</string>
     <string name="qjcxu_settings_screen_version_label">Version</string>
     <string name="qjcxu_settings_screen_customer_support_label">Customer Support</string>
-    <string name="qjcxu_company_name">Company Name</string>
+    <string name="qjcxu_company_name">NUSOL LTD</string>
     <string name="qjcxu_app_version">1.0.0</string>
-    <string name="qjcxu_customer_support_link">https://website.org/</string>
+    <string name="qjcxu_customer_support_link">http://nusol.vu</string>
 
     <!--[FIREBASE][notification_channel]-->
 </resources>
