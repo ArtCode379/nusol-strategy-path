@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T08:04:01.364003+00:00",
+  "slug": "nusol-strategy-path",
+  "type": "service",
+  "package": "nusol.management.nusolstrategypath",
+  "prefix": "QJCXU",
+  "app_name": "Nusol Strategy Path",
+  "task_gid": "1217108648727072",
+  "task_name": "GB GW4 C1244",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217108648727072",
+  "domain": "http://nusol.vu",
+  "company": "NUSOL LTD",
+  "repo_url": "https://github.com/ArtCode379/nusol-strategy-path",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
